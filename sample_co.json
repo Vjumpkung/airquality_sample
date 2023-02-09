@@ -1,0 +1,52 @@
+[
+  {
+    "datetime": "2023-02-09 12:07:47.232992",
+    "CO": 0.81,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:42.232992",
+    "CO": 0.77,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:37.232992",
+    "CO": 0.84,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:32.232992",
+    "CO": 0.87,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:27.232992",
+    "CO": 0.95,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:22.232992",
+    "CO": 0.93,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:17.232992",
+    "CO": 0.76,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:12.232992",
+    "CO": 0.99,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:07.232992",
+    "CO": 0.73,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:07:02.232992",
+    "CO": 0.99,
+    "status": "test status"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "datetime": "2023-02-09 12:08:56.874218",
+    "humidity": 98,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:51.874218",
+    "humidity": 83,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:46.874218",
+    "humidity": 83,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:41.874218",
+    "humidity": 83,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:36.874218",
+    "humidity": 85,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:31.874218",
+    "humidity": 78,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:26.874218",
+    "humidity": 84,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:21.874218",
+    "humidity": 81,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:16.874218",
+    "humidity": 78,
+    "status": "test status"
+  },
+  {
+    "datetime": "2023-02-09 12:08:11.874218",
+    "humidity": 83,
+    "status": "test status"
+  }
+]

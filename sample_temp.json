@@ -1,0 +1,12 @@
+[
+  { "datetime": "2023-02-09 11:44:16.770096", "temp": 31, "status": "normal" },
+  { "datetime": "2023-02-09 11:44:11.770096", "temp": 29, "status": "normal" },
+  { "datetime": "2023-02-09 11:44:06.770096", "temp": 29, "status": "normal" },
+  { "datetime": "2023-02-09 11:44:01.770096", "temp": 30, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:56.770096", "temp": 29, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:51.770096", "temp": 31, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:46.770096", "temp": 30, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:41.770096", "temp": 29, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:36.770096", "temp": 29, "status": "normal" },
+  { "datetime": "2023-02-09 11:43:31.770096", "temp": 30, "status": "normal" }
+]
